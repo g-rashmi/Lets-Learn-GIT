@@ -2,6 +2,6 @@
 int main(){
     int x=3;
     int y=4;
-    printf("%d",x+y);
+    printf(" sum is %d",x+y);
     return 0;
 }
